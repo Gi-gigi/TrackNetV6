@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  UniTrack: A Unified Framework for Lightweight and <br/> Robust
+  TrackNetV6: A Unified Framework for Lightweight and <br/> Robust
   Fast-Moving Tiny Ball Tracking
 </h1>
 
