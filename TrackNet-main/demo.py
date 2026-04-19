@@ -7,7 +7,7 @@ from scipy.stats import multivariate_normal
 import pandas as pd
 from tqdm import tqdm
 from collections import deque  
-from models.TrackNet_Beta import TrackNetBeta
+from models.TrackNetV6_Beta import TrackNetBeta
 
 
 class TrackNetPredictor:
