@@ -108,9 +108,9 @@ This project provides Python scripts for visualization demos, including:
 ## 🚀 Quick Start
 ```bash
 python demo.py \
-  --tracknet_file models/TrackNetBeta.pt \
-  --dataset tennis_game_level_split \
-  --save_dir ./prediction \
+  --model_path models/TrackNetBeta.pt \
+  --input_video prediction/demo_video.mp4 \
+  --output_video prediction/predicted.mp4 \
   --device cuda:0 \
   --tolerance 4
 ```
